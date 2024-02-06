@@ -1,0 +1,14 @@
+C:\Users\haiho\OneDrive\Desktop\Programming\Csharp\ConsoleAnimation\ConsoleAnimation\bin\Debug\net8.0\ConsoleAnimation.exe
+C:\Users\haiho\OneDrive\Desktop\Programming\Csharp\ConsoleAnimation\ConsoleAnimation\bin\Debug\net8.0\ConsoleAnimation.deps.json
+C:\Users\haiho\OneDrive\Desktop\Programming\Csharp\ConsoleAnimation\ConsoleAnimation\bin\Debug\net8.0\ConsoleAnimation.runtimeconfig.json
+C:\Users\haiho\OneDrive\Desktop\Programming\Csharp\ConsoleAnimation\ConsoleAnimation\bin\Debug\net8.0\ConsoleAnimation.dll
+C:\Users\haiho\OneDrive\Desktop\Programming\Csharp\ConsoleAnimation\ConsoleAnimation\bin\Debug\net8.0\ConsoleAnimation.pdb
+C:\Users\haiho\OneDrive\Desktop\Programming\Csharp\ConsoleAnimation\ConsoleAnimation\obj\Debug\net8.0\ConsoleAnimation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haiho\OneDrive\Desktop\Programming\Csharp\ConsoleAnimation\ConsoleAnimation\obj\Debug\net8.0\ConsoleAnimation.AssemblyInfoInputs.cache
+C:\Users\haiho\OneDrive\Desktop\Programming\Csharp\ConsoleAnimation\ConsoleAnimation\obj\Debug\net8.0\ConsoleAnimation.AssemblyInfo.cs
+C:\Users\haiho\OneDrive\Desktop\Programming\Csharp\ConsoleAnimation\ConsoleAnimation\obj\Debug\net8.0\ConsoleAnimation.csproj.CoreCompileInputs.cache
+C:\Users\haiho\OneDrive\Desktop\Programming\Csharp\ConsoleAnimation\ConsoleAnimation\obj\Debug\net8.0\ConsoleAnimation.dll
+C:\Users\haiho\OneDrive\Desktop\Programming\Csharp\ConsoleAnimation\ConsoleAnimation\obj\Debug\net8.0\refint\ConsoleAnimation.dll
+C:\Users\haiho\OneDrive\Desktop\Programming\Csharp\ConsoleAnimation\ConsoleAnimation\obj\Debug\net8.0\ConsoleAnimation.pdb
+C:\Users\haiho\OneDrive\Desktop\Programming\Csharp\ConsoleAnimation\ConsoleAnimation\obj\Debug\net8.0\ConsoleAnimation.genruntimeconfig.cache
+C:\Users\haiho\OneDrive\Desktop\Programming\Csharp\ConsoleAnimation\ConsoleAnimation\obj\Debug\net8.0\ref\ConsoleAnimation.dll
